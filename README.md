@@ -8,3 +8,4 @@ Something, something, and something more.
 
 ## Another thing
 1. Sample instructions
+2. Undoing changes 
